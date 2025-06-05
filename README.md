@@ -25,26 +25,26 @@ Listar
 usa o endpoint
 
 Adiconar
-{
+
         "titulo": "exemplo",
         "descricao": "exemplo",
         
-      }
+      
 
 Editar
-{        
+       
         "id" = 1
         "titulo": "exemplo",
         "descricao": "exemplo",
         
-      }
+      
 
 Deletar
-{        
+       
         "id" = 1
     
         
-      }
+      
 
 
 
