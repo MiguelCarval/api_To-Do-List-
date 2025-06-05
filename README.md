@@ -29,7 +29,7 @@ Adiconar
         "titulo": "exemplo",
         "descricao": "exemplo",
         
-      }'
+      }
 
 Editar
 {        
@@ -37,14 +37,14 @@ Editar
         "titulo": "exemplo",
         "descricao": "exemplo",
         
-      }'
+      }
 
 Deletar
 {        
         "id" = 1
     
         
-      }'
+      }
 
 
 
